@@ -28,6 +28,6 @@ elseif (rcond(S) < params.thresh) || (rcond(D) < params.thresh)
 end
 
 %computing the matrix
-A = sharp(inv(S),D,t); %computing the geodesic using the Cholesky-Schur method
-% A = S\((S*D)^t);
+A = real(sharp(inv(S),D,t)); %computing the geodesic using the Cholesky-Schur method
+% A = real(S\((S*D)^t));
 end
