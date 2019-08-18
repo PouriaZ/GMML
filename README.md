@@ -2,7 +2,7 @@
 
 A MATLAB implementation of GMML (Geometric Mean Metric Learning)
 
-Contact: [Pourya Habib Zadeh](mailto:p.habibzadeh@ut.ac.ir)  or [Reshad Hosseini](mailto:reshad.hosseini@ut.ac.ir)  or [Suvrit Sra](mailto:suvrit@mit.edu) 
+Contact: [Pourya Habib Zadeh](mailto:pourya@mit.edu)  or [Reshad Hosseini](mailto:reshad.hosseini@ut.ac.ir)  or [Suvrit Sra](mailto:suvrit@mit.edu) 
 
 ## How To Start ##
 
